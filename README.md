@@ -1,4 +1,14 @@
-## Hi there 👋
+Hey there 🙋🏻‍♂️
+
+i'm Harsh, a Content Analyst based in India
+"Aspiring Data Analyst turning complex datasets into actionable insights through SQL, Python, and data storytelling."
+
+
+🛠️ My Data Toolkit
+- **Languages:** Advance Excel,SQL ( MySQL/PL SQL),Python (Pandas, NumPy)
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- **Professional Skills:** Content Strategy, Data Cleaning,Agengtic Ai, Stakeholder Communication,
+- **Currently Learning:** Machine Learning for Predictive Analytics & Advanced 
 
 <!--
 **harshmahindrakar26-boop/harshmahindrakar26-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
