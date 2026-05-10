@@ -6,7 +6,7 @@ i'm Harsh, a Content Analyst based in India
 
 🛠️ My Data Toolkit
 - **Languages:** Advance Excel,SQL ( MySQL/PL SQL),Python (Pandas, NumPy)
-- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+- **Visualization:** Power BI, Tableau,
 - **Professional Skills:** Content Strategy, Data Cleaning,Agengtic Ai, Stakeholder Communication,
 - **Currently Learning:** Machine Learning for Predictive Analytics & Advanced 
 
